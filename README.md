@@ -69,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 {"mode":"full","isActive":false}
+
+### I have used these similar api.
+export const API_HOST = 'community-open-weather-map.p.rapidapi.com';
+export const API_KEY = '64a5bc31efmsh3db7538db0bafd5p1575b6jsn1f62d23b4554';
+export const BASE_PATH = 'https://community-open-weather-map.p.rapidapi.com';
+© 2021 GitHub, Inc.
